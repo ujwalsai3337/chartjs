@@ -1,0 +1,26 @@
+h1 {
+    color:#fff;
+}
+
+nav {
+    background-color:  #236CD1 ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #04133c;
+    
+} 
+
+
+h1:hover{
+    color: #164280;
+    
+}
+
+.nav-img {
+    /* margin-right: 30px; */
+    width:auto;
+    height:100px;
+    object-fit: cover;
+    
+}
