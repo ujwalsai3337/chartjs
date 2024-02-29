@@ -1,26 +1,26 @@
-.input {
+h1 {
+    color:#fff;
+}
+
+nav {
+    background-color:  #236CD1 ;
     display: flex;
-    justify-content: space-around;
-    margin-top: 40px ;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #04133c;
+    
+} 
+
+
+h1:hover{
+    color: #164280;
+    
 }
 
-.drop-input {
-
-    height:50px;
-    width: 150px;
-    border:1px solid black;
-    border-radius: 20px;
-    text-shadow: 10px;
-    margin-left: 20px;
-
-}
-
-
-
-label{
-    font-size: 25px;
-}
-
-.drop-input{
-    height: 33px;
+.nav-img {
+    /* margin-right: 30px; */
+    width:auto;
+    height:100px;
+    object-fit: cover;
+    
 }
